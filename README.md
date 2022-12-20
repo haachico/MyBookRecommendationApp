@@ -1,2 +1,1 @@
-# MyBookRecommendationApp
-Created with CodeSandbox
+his app discloses my books recommendation.
