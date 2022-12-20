@@ -1,1 +1,1 @@
-his app discloses my books recommendation.
+This app discloses my books recommendation.
